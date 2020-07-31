@@ -9,3 +9,6 @@ String is a string of characters that form words, phrases or what can be display
 ### Float  
 Float, is the type of variable used to define variables of "broken" numbers.
 
+### Boolean
+When a variable of type "Boolean" is typed, it has only two paths, or it will be defined with "TRUE" that confirms something or "FALSE" that denies something.
+
