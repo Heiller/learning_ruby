@@ -14,3 +14,6 @@ When a variable of type "Boolean" is typed, it has only two paths, or it will be
 
 ### Integer  
 The name itself says, integers, are those that are not "broken" numbers
+
+### Array
+Array is a data structure to which you can tie variables within it
