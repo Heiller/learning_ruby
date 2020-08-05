@@ -17,3 +17,6 @@ The name itself says, integers, are those that are not "broken" numbers
 
 ### Array
 Array is a data structure to which you can tie variables within it
+
+### Symbol
+Creating two identical "Symbols" saves you memory space. Two identical strings occupy more than one memory space.
