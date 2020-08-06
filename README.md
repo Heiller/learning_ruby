@@ -20,3 +20,6 @@ Array is a data structure to which you can tie variables within it
 
 ### Symbol
 Creating two identical "Symbols" saves you memory space. Two identical strings occupy more than one memory space.
+
+### Hash
+A rash has its organizational form much like an array. The few differences are due to the way it is inserted, values and keys, it works like a dictionary, you can put a key right after that key will store a value.
