@@ -23,3 +23,6 @@ Creating two identical "Symbols" saves you memory space. Two identical strings o
 
 ### Hash
 A rash has its organizational form much like an array. The few differences are due to the way it is inserted, values and keys, it works like a dictionary, you can put a key right after that key will store a value.
+
+### Operators
+To perform the mathematical operations in ruby we have the following arithmetic operators: addition, subtraction, division, multiplication, module and exponent.
