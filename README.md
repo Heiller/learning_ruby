@@ -26,3 +26,7 @@ A rash has its organizational form much like an array. The few differences are d
 
 ### Operators
 To perform the mathematical operations in ruby we have the following arithmetic operators: addition, subtraction, division, multiplication, module and exponent.
+
+### Data Input and Output
+Output operations "PUTS" or "PRINT" allows displaying the data on the console.  
+Input operations "GETS" allows entering data into the program.
