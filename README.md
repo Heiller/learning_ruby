@@ -30,3 +30,10 @@ To perform the mathematical operations in ruby we have the following arithmetic 
 ### Data Input and Output
 Output operations "PUTS" or "PRINT" allows displaying the data on the console.  
 Input operations "GETS" allows entering data into the program.
+
+### Control Structures
+Control structure is one of the most interesting means and opens up a range of possibilities in simpler scripts. It is possible to make different decisions in the code to validate something, for example.  
+"If" used to validate a condition "IF" it is true, if false it is used "ELSE".
+We use "ELSIF" if we have more than one condition to check.  
+We also have the "UNLESS" which works in a way contrary to the "IF". If "IF" is validated when the expression is true, "UNLESS" is validated when it is false.  
+And last but not least "CASE", is used to validate between to validate some predetermined choices and discard those that are invalid.
